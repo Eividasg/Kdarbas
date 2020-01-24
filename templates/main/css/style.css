@@ -1,0 +1,14 @@
+.org {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+.sectionas {
+    text-align: left;
+    height: 200px;
+    width: 100%;
+    color: black;
+}
+.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
+    background-color: darkorange;
+}
